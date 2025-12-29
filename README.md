@@ -35,6 +35,7 @@ This repository contains the **frontend** part of the KanMind project.
 
 ## 📁 Project Structure
 
+```text
 KanMind_Frontend/
 │
 ├── assets/ # Icons, images, static assets
@@ -48,6 +49,7 @@ KanMind_Frontend/
 │ └── privacy/ # Privacy Policy
 │
 └── index.html # Entry point
+```
 
 ---
 
